@@ -12,6 +12,13 @@ In this project, I built a recommendation engine that suggests the most relevant
 
 • Implemented in Python (Pandas, NumPy, Scikit-learn) with a clean workflow in Jupyter Notebook
 
+## **Methodology**
+Cross-Industry Standard Process for Data Mining
+
+## **Dataset**
+
+• Source: Kaggle
+
 ### This project helped me strengthen my skills in NLP, Recommendation Systems, and Data Science.
 
-I’d love to hear your feedback and suggestions! 💬
+I’d love to hear your feedback and suggestions! 
